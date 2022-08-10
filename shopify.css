@@ -17,3 +17,21 @@ margin-top: -39px;
 .maintxt{
     margin-left:60px;
  }
+ site-footer__hr {
+   border-bottom: 1px solid #dcdcdc;
+ }
+
+ .site-footer p,
+ .site-footer h4,
+ .site-footer small
+  {
+   color: #3d4246;
+ }
+
+ .site-footer {
+   background-color: #F5F5F5;
+ }
+
+ .site-footer a:hover {
+   color: #61696f;
+ }
